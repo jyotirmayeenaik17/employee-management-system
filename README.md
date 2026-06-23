@@ -60,14 +60,6 @@ Roles:
 
 MySQL database is used for storing employee and user information.
 
-## Future Enhancements
-
-* Refresh Token Implementation
-* Swagger/OpenAPI Documentation
-* Docker Containerization
-* Microservices Architecture
-* Unit and Integration Testing
-
 ## Author
 
 Jyotirmayee Naik
